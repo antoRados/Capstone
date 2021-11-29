@@ -1,5 +1,5 @@
 App idea
-	- A gamified habbit tracking application.  Users can set an action they would like to turn into a habbit, and         check in daily to unlock "streaks" (badges, and time-based flair).
+	- A gamified habit tracking application.  Users can set an action they would like to turn into a habit, and         check in daily to unlock "streaks" (badges, and time-based flair).
 	  
 	  Ex) Track how many days it has been since your last cigarette.
 	  	  Track how many days in a row you have worked out. 
@@ -7,14 +7,14 @@ App idea
 	
 Primary features
 	- Users need to create an account
-	- Users are able to set habbits they would like to track indefinitely
-	- Users are able to set time-based goals for how long they would like to track a habbit
-	- Users are able to check-in daily to mark their habbit completed
-	- User is able to rate their feelings toward the habbit for that day (smiley face scale)
+	- Users are able to set habits they would like to track indefinitely
+	- Users are able to set time-based goals for how long they would like to track a habit
+	- Users are able to check-in daily to mark their habit completed
+	- User is able to rate their feelings toward the habit for that day (smiley face scale)
 	- User receives badges, and flair for incremental rewards
 
 Secondary features
 	- Users are able to add friends by phone number, and email
 	- Users are able to add friends by social media account
-	- Users have an analytics page for tracked habbits or goals
+	- Users have an analytics page for tracked habits or goals
 	- Users are able to challenge friends in "streak" competitions
